@@ -5,7 +5,7 @@ implementation is merely intended to be used in software engineering courses.
 
 How to build and test (from Terminal):
 
-1. Make sure that you have ant installed.
+How to build (from Terminal):
 
 2. cd into the root directory, which contains the build.xml build file.
 
